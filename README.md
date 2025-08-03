@@ -95,17 +95,3 @@ Mark Kibara
 Visionary 3D Designer & Visual Creative using Blender
 📬 Contact | 🧠 About Me
 
-📄 License
-This project is open-source and free to use for personal or educational purposes. Attribution is appreciated.
-
-Would you like me to generate this as a downloadable .md file or add badges (like GitHub Stars/Forks or HTML5 badge)?
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
